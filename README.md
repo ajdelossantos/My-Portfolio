@@ -4,6 +4,10 @@ Welcome to the portfolio website of Alvin James T. Delos Santos. Feel free to ex
 
 Credit for the design go to HTML5 UP, with orignal README credits below. I adapted the template for this website.
 
+TODOS:
+
+* Add mailer functionality to contacts section
+
 ====================
 
 ### Solid State by HTML5 UP
