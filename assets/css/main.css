@@ -4078,6 +4078,8 @@ body.is-loading #banner p {
   display: flex;
   margin: 0 auto;
   border-bottom: none;
+  width: 100%;
+  max-width: 320px;
 }
 
 .flex-banner {
@@ -4091,6 +4093,7 @@ body.is-loading #banner p {
   display: flex;
   flex-direction: row;
   justify-content: space-between;
+  flex-wrap: wrap;
 }
 
 .skills-box ul li {
