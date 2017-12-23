@@ -4111,3 +4111,13 @@ body.is-loading #banner p {
 .no-border {
   border-bottom: none !important;
 }
+
+.edu-img {
+  width: 100%;
+  max-width: 880px;
+  border-radius: 5px 5px 0 0;
+}
+
+#email-btn {
+  background-color: rgba(100, 5, 5, 0.85);
+}
