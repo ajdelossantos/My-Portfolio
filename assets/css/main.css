@@ -4100,10 +4100,14 @@ body.is-loading #banner p {
   min-width: 7em;
   display: flex;
   flex-direction: row-reverse;
-	justify-content: space-between;
-	align-items: center
+  justify-content: space-between;
+  align-items: center;
 }
 
 #code-icon {
-	background-color: #ffffff
+  background-color: #ffffff;
+}
+
+.no-border {
+  border-bottom: none !important;
 }
