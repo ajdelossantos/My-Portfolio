@@ -4129,3 +4129,7 @@ body.is-loading #banner p {
 .contact li{
   flex-direction: row!important;
 }
+
+.not-allowed:hover {
+  cursor: not-allowed;
+}
