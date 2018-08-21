@@ -53,10 +53,11 @@ Stanford Jazz Workshop
 2015 - 2016
 * Formulated new SQL query to donors database, increasing donor letter output by 500% through enabling batch processing via mail merge and reduced average company response to donors from weeks to days
 
+Graduate Teaching/Research Assistant
+Washington State University,	2013 - 2015
+* Lead team in securing $45k in new funding for music organizations, oversaw grant-awarding procedures, mentored high school and undergraduate students in music theory/performance/career goals, directed 21-member “One O’clock Jazz Workshop” band
+
 EDUCATION
-App Academy
-2017 - 2018
-* DevOps, CI/CD, TDD, scalability, algorithms, OOP, REST, security, single-page apps, 1000 hour coding intensive program, <3% acceptance rate 
 
 Washington State University, Pullman
 M.A.
@@ -65,3 +66,6 @@ Entrepreneurship, Music
 University of California, Davis
 B.A. 
 Economics, Music Composition
+
+App Academy, 2017
+* DevOps, CI/CD, TDD, scalability, algorithms, OOP, REST, security, single-page apps
