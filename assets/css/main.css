@@ -4074,6 +4074,12 @@ body.is-loading #banner p {
   line-height: 1.8em;
 }
 
+.github-icon:before {
+  content: '\f09b' !important;
+  text-indent: 0.1em !important;
+  line-height: 1.8em !important;
+}
+
 #profile-img {
   display: flex;
   margin: 0 auto;
