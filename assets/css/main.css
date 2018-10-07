@@ -4066,14 +4066,6 @@ body.is-loading #banner p {
 
 /* Custom */
 
-#github-abstract:before,
-#github-bubbles:before,
-#github-rr:before {
-  content: '\f09b';
-  text-indent: 0.1em;
-  line-height: 1.8em;
-}
-
 .github-icon:before {
   content: '\f09b' !important;
   text-indent: 0.1em !important;
